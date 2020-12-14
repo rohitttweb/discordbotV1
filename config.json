@@ -1,9 +1,9 @@
 {
-    "token": "NTI2OTcxMjUzNTYzODUwNzUz.X8zkEg.XSlZ0PK0DI-gErDj1J1uFbn9UPM",
+    "token": "Your Token Here",
 
     "commands": [{
         "active": true,
-        "channelID": "528496199167377408",
+        "channelID": "Your channal id here",
         "interval": 2500,
         "drank":{
             "active": true,
