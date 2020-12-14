@@ -1,0 +1,30 @@
+{
+    "token": "NTI2OTcxMjUzNTYzODUwNzUz.X8zkEg.XSlZ0PK0DI-gErDj1J1uFbn9UPM",
+
+    "commands": [{
+        "active": true,
+        "channelID": "528496199167377408",
+        "interval": 2500,
+        "drank":{
+            "active": true,
+            "beg": { "active": true, "count": 0, "content": "pls beg"},
+            "memes": { "active": true, "count": 0, "content": "Pls postmemes", "content2": "r"},
+            "fish": { "active": true, "count": 0, "content": "Pls fish" },
+            "hunt": { "active": true, "count": 0, "content": "Pls hunt" }
+        },
+        "mine": {
+            "active": true,
+            "sell": { "active": true, "count": 0, "content": ";s" },
+            "hunt": { "active": true, "count": 0, "content": ";h" },
+            "fish": { "active": true, "count": 0, "content": ";f" }
+        },
+        "brawlbox": {
+            "active": true,
+            "b": { "active": true, "content": "-b" },
+            "mb": { "active": true, "count": 0, "content": "-mb" },
+            "bb": { "active": true, "count": 0, "content": "-bb" }
+
+        }
+    }]
+}
+
